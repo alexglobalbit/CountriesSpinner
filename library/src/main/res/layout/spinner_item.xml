@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="horizontal"
+              android:layout_width="wrap_content"
+              android:layout_height="wrap_content"
+              android:padding="5dp">
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/imgViewCountryFlag"
+        android:layout_gravity="center_vertical"
+        android:src="@drawable/il"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtViewCountryName"
+        android:layout_marginStart="10dp"
+        android:layout_gravity="center_vertical"
+        tools:text="Israel"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtViewCountryCode"
+        android:layout_gravity="center_vertical"
+        android:layout_marginStart="10dp"
+        tools:text="+972"/>
+
+</LinearLayout>

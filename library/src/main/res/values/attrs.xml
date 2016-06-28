@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CountriesSpinner">
+        <attr name="show_flags" format="boolean"/>
+        <attr name="show_names" format="boolean"/>
+        <attr name="show_codes" format="boolean"/>
+    </declare-styleable>
+</resources>

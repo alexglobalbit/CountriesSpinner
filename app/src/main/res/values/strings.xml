@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Countries Spinner</string>
+    <!--<string-array name="CountryCodes" translatable="false">
+        <item>33,FR</item>
+        <item>44,GB</item>
+        <item>34,ES</item>
+        <item>49,DE</item>
+        <item>39,IT</item>
+        <item>1,US</item>
+        <item>32,BE</item>
+        <item>41,CH</item>
+        <item>43,AT</item>
+    </string-array>-->
+
+
+</resources>
